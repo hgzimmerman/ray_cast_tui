@@ -1,0 +1,8 @@
+[package]
+name = "ray_cast_tui"
+version = "0.1.0"
+authors = ["Henry Zimmerman <zimhen7@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termion = "1.5.1"
